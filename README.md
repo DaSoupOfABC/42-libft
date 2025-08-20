@@ -141,9 +141,3 @@ make f
 
 ---
 
-## 🙏 Acknowledgements
-
-* 42 School for the curriculum and guidance.
-* Fellow students and community testers for feedback.
-
-```
